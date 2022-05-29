@@ -6,14 +6,23 @@ V. Isualize has given out a new assignment - to analyze and compare how the data
 
 ## Results
 
-By analyzing the "Total Fare by City Type" multi line graph below we can clearly see the differences in ride sharing data by city type.
+### By analyzing the "Total Fare by City Type" multi line graph below we can clearly see the differences in ride sharing data by city type.
 
 The total fares are the highest in urban  cities and the lowest in rural cities. The difference between the total far dollar amount between these two city types is extremely significant. 
+
 Suburban cities fall nearly in the middle of the total fares of urban and rural cities.
+
 From Jan-Apr the total fare amounts continuously vary, however, the variation is never more than $500.
 
 ![Fig8_challenge](https://user-images.githubusercontent.com/103215686/170891875-22c21beb-4d83-4cea-8dcd-f71c1f92e197.png)
 
 ## Summary
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+### Based on the results, I have three recommendations for the PyBer CEO:
+
+- Increase PyBer marketing to target rural and suburban cities and increase riders.
+
+- Increase the number of drivers in urban citites to keep fares at an affordable rate so no customers are lost due to soaring prices.
+
+- 
+
